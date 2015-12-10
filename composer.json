@@ -1,0 +1,21 @@
+{
+    "name": "projectufa/yii2-mprint-jsprintsetup",
+    "description": "mPrint prints the desired elements in your HTML page",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","print"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Juan C Robles",
+            "email": "project.ufa@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "projectufa\\mprint\\": ""
+        }
+    }
+}
